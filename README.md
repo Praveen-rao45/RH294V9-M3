@@ -5,7 +5,7 @@ Open workstation terminal & switch to user root then run the following commands,
 Open workstation terminal & switch to user root then run the following commands,**
 # su - root
 # password: redhat
-# git clone https://github.com/ranjit1965/RH294V9-M3.git
+# git clone https://github.com/Praveen-rao45/RH294V9-M3.git
 # cd RH294V9-M3
 # sh exam-init.sh
 
